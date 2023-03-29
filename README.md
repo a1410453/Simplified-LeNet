@@ -6,7 +6,13 @@ Implemantation of simplified-LeNet using parallel computing with gpu made as ass
 
 
 Used for recognition of hand written digits from The MNIST Database.
+
 Results:
+
+
 Error Rate = 6.060000% (606 out of 10,000)
+
 Accuracy = 93.940% (9394 out of 10,000)
+
 Ex time = 832.637055 (ms) 
+
